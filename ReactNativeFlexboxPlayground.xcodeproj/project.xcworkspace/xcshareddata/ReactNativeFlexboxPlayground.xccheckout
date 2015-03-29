@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1CD1780-7042-4EB0-AAC8-89E8171E9EEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReactNativeFlexboxPlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>878EADB497D83DA13C6A7E6A08E9B40E442C89BB</key>
+		<string>github.com:glenjamin/ReactNativeFlexboxPlayground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReactNativeFlexboxPlayground.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>878EADB497D83DA13C6A7E6A08E9B40E442C89BB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:glenjamin/ReactNativeFlexboxPlayground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>878EADB497D83DA13C6A7E6A08E9B40E442C89BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>878EADB497D83DA13C6A7E6A08E9B40E442C89BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReactNativeFlexboxPlayground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
